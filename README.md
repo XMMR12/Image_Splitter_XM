@@ -30,6 +30,7 @@ Supports Large Images: Capable of handling high-resolution images efficiently.
 ## Installation
 Download the latest release from the Releases Page (link to be provided).
 https://huggingface.co/spaces/XMMR12/Temp_Apps_Storage/blob/main/Image%20Splitter%20v1.1.exe
+
 Download package to your preferred location.
 Launch the application (Image_Splitter_XM.exe on Windows or the app.py script on other OS).
 ### How to Use
