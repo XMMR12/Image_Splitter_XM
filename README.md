@@ -1,6 +1,9 @@
 # Image_Splitter_XM
 Image_Splitter_XM is a free, open-source, offline application designed for effortlessly splitting a single image into multiple large images. Whether you're preparing images for social media, web design, or photo editing, this tool simplifies the process of cutting your pictures into halves, grids, or strips with just a few clicks.
 
+## Screenshot
+![Image Splitter App Screenshot](https://github.com/XMMR12/Image_Splitter_XM/blob/main/screenshot.png)
+
 ## Features
 Offline & Free: No internet connection required; fully open-source and free to use.
 Easy-to-Use Interface: User-friendly interface for quick image splitting.
@@ -11,6 +14,7 @@ Create strips (horizontal or vertical)
 Preview Before Download: View the split results before saving.
 Fast Processing: Rapidly process images and download results within seconds.
 Supports Large Images: Capable of handling high-resolution images efficiently.
+
 ## Getting Started
 `app.py` compatible operating system (Windows, macOS, Linux)
 - Prerequisites (open-source)
