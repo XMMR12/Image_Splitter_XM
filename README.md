@@ -2,7 +2,7 @@
 Image_Splitter_XM is a free, open-source, offline application designed for effortlessly splitting a single image into multiple large images. Whether you're preparing images for social media, web design, or photo editing, this tool simplifies the process of cutting your pictures into halves, grids, or strips with just a few clicks.
 
 ## Screenshot
-![Image Splitter App Screenshot](https://github.com/XMMR12/Image_Splitter_XM/blob/main/screenshot.png)
+[![Image Splitter App Screenshot](https://github.com/XMMR12/Image_Splitter_XM/blob/main/screenshot.png)](https://huggingface.co/spaces/XMMR12/Temp_Apps_Storage/blob/main/Image%20Splitter%20v1.1.exe)
 
 ## Features
 Offline & Free: No internet connection required; fully open-source and free to use.
@@ -23,6 +23,7 @@ Supports Large Images: Capable of handling high-resolution images efficiently.
   - `pip install numpy`
 
 `Image Splitter.exe` compatible operating system (Windows):
+
 - Prerequisites (.exe)
   - > No additional dependencies required
 
@@ -34,7 +35,7 @@ How to Use
 Upload Your Image: Click on the 'Upload' button to select your image file.
 Select Split Settings: Choose your desired splitting method.
 Preview: View the split preview within the application.
-Download: Click the 'Download' button to save the split images to your device.
+Download: Click the 'Split' button to save the split images to your device in `output_images` folder.
 
 ## Contributing
 Contributions are welcome! If you'd like to improve the application, report bugs, or suggest features:
