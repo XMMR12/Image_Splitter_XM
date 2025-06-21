@@ -29,9 +29,10 @@ Supports Large Images: Capable of handling high-resolution images efficiently.
 
 ## Installation
 Download the latest release from the Releases Page (link to be provided).
-Extract the downloaded package to your preferred location.
+https://huggingface.co/spaces/XMMR12/Temp_Apps_Storage/blob/main/Image%20Splitter%20v1.1.exe
+Download package to your preferred location.
 Launch the application (Image_Splitter_XM.exe on Windows or the app.py script on other OS).
-How to Use
+### How to Use
 Upload Your Image: Click on the 'Upload' button to select your image file.
 Select Split Settings: Choose your desired splitting method.
 Preview: View the split preview within the application.
